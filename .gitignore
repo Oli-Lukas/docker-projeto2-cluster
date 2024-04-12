@@ -1,1 +1,5 @@
+# diretório '.vagrant' não necessário.
 .vagrant
+
+# O arquivo 'worker.sh' será gerado automaticamente.
+worker.sh
